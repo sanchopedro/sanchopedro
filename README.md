@@ -2,24 +2,26 @@
   
 
 ## É um prazer tê-lo por aqui! 😊  
-  
 
-- 💼 Atualmente trabalho como Gerente Financeiro  
-  
+ 
+## Sobre Mim
 
-- 🎓 Mestrado em Finanças (Nova School of Business and Economics - Portugal)  
-  
+Sou um profissional de Finanças com experiência em análise de investimentos e uma paixão crescente pela Ciência de Dados. Possuo formação acadêmica em Finanças e Economia, complementada por cursos especializados em Data Science e Full Stack Web Development.
 
--  🎒Bacharelado em Economia (IBMEC-RJ - Brasil)  
-  
+Atualmente, estou buscando oportunidades para aplicar minha expertise em Finanças e minhas habilidades em Ciência de Dados para resolver problemas complexos e impulsionar decisões estratégicas.
 
-Sou um profissional experiente em finanças com uma sólida formação acadêmica e profissional. Agora, estou buscando uma transição para o mercado de Data Science, onde acredito que posso usar minha experiência para criar soluções inovadoras e analíticas.  
-  
+## Educação
 
+- **Mestrado em Finanças:** Nova School of Business and Economics, Carcavelos, Portugal (2018-2020)
+  
+- **Bacharelado em Economia:** IBMEC-RJ, Rio de Janeiro, Brasil (2014-2017)
+
+- **Cursos:** Bootcamp Data Science (TripleTen School of Data Science), Full Stack Web Development (EDIT)
+  
 <br/>  
 
 
-## My Skill Set  
+## Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,6 +70,19 @@ Sou um profissional experiente em finanças com uma sólida formação acadêmic
 
 <br/>  
 
+## Projetos
+
+Aqui estão alguns dos projetos em que trabalhei:
+
+| Projeto | Descrição |
+|---------|-----------|
+| [Zyfra: Modelo de Previsão para Extração de Ouro](https://github.com/sanchopedro/zyfra) | Desenvolvimento de um modelo de aprendizado de máquina para prever a quantidade de ouro extraído durante o processo de mineração. |
+| [Oily Giant: Explorando Novos Poços de Petróleo](https://github.com/sanchopedro/oily-giant) | Análise avançada de dados para identificar a região mais lucrativa para exploração de novos poços de petróleo. |
+| [Taxi Corrida Maluca: Previsão de Demanda de Táxi](https://github.com/sanchopedro/taxi) | Desenvolvimento de um modelo de previsão de demanda de táxi para otimizar o serviço durante os horários de pico nos aeroportos. |
+| [Rusty Bargain: Modelo de Precificação de Carros Usados](https://github.com/sanchopedro/rusty-bargain) | Desenvolvimento de modelos de aprendizado de máquina para prever o preço de carros usados com precisão. |
+| [Film Junky Union: Classificação de Resenhas de Filmes](https://github.com/sanchopedro/imdb-reviews) | Implementação de um modelo para detectar automaticamente resenhas negativas de filmes utilizando processamento de linguagem natural. |
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -97,46 +112,6 @@ Sou um profissional experiente em finanças com uma sólida formação acadêmic
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sanchopedro&&style=flat-square" align="center" />
 </div>  
-
-
-
-# Pedro Sancho Rodrigues
-
-## Sobre Mim
-
-Sou um profissional de Finanças com experiência em análise de investimentos e uma paixão crescente pela Ciência de Dados. Possuo formação acadêmica em Finanças e Economia, complementada por cursos especializados em Data Science e Full Stack Web Development.
-
-Atualmente, estou buscando oportunidades para aplicar minha expertise em Finanças e minhas habilidades em Ciência de Dados para resolver problemas complexos e impulsionar decisões estratégicas.
-
-## Habilidades
-
-- **Linguagens e Ferramentas:** Python (Pandas, NumPy, NLTK), SQL, machine learning (Scikit-learn), visualização de dados (seaborn, Matplotlib, plotly), HTML, CSS, JavaScript, React, TypeScript.
-- **Outras Habilidades:** Pacote Office, Git/GitHub, Dashboard (PowerBi, Tableau).
-
-## Projetos
-
-Aqui estão alguns dos projetos em que trabalhei:
-
-| Projeto | Descrição |
-|---------|-----------|
-| [Zyfra: Modelo de Previsão para Extração de Ouro](link_para_o_projeto) | Desenvolvimento de um modelo de aprendizado de máquina para prever a quantidade de ouro extraído durante o processo de mineração. |
-| [Oily Giant: Explorando Novos Poços de Petróleo](link_para_o_projeto) | Análise avançada de dados para identificar a região mais lucrativa para exploração de novos poços de petróleo. |
-| [Taxi Corrida Maluca: Previsão de Demanda de Táxi](link_para_o_projeto) | Desenvolvimento de um modelo de previsão de demanda de táxi para otimizar o serviço durante os horários de pico nos aeroportos. |
-| [Rusty Bargain: Modelo de Precificação de Carros Usados](link_para_o_projeto) | Desenvolvimento de modelos de aprendizado de máquina para prever o preço de carros usados com precisão. |
-| [Film Junky Union: Classificação de Resenhas de Filmes](link_para_o_projeto) | Implementação de um modelo para detectar automaticamente resenhas negativas de filmes utilizando processamento de linguagem natural. |
-
-## Educação
-
-- **Mestrado em Finanças:** Nova School of Business and Economics, Carcavelos, Portugal (2018-2020)
-- **Bacharelado em Economia:** IBMEC-RJ, Rio de Janeiro, Brasil (2014-2017)
-- **Cursos:** Bootcamp Data Science (TripleTen School of Data Science), Full Stack Web Development (EDIT)
-
-## Contato
-
-- LinkedIn: [Pedro Sancho Rodrigues](https://www.linkedin.com/in/pedrosanchorodrigues)
-- Email: seuemail@email.com
-
-  
 
 <br/>  
 
