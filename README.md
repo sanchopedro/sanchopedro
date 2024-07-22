@@ -81,6 +81,7 @@ Aqui estão alguns dos projetos em que trabalhei:
 | [Taxi Corrida Maluca: Previsão de Demanda de Táxi](https://github.com/sanchopedro/taxi) | Desenvolvimento de um modelo de previsão de demanda de táxi para otimizar o serviço durante os horários de pico nos aeroportos. |
 | [Rusty Bargain: Modelo de Precificação de Carros Usados](https://github.com/sanchopedro/rusty-bargain) | Desenvolvimento de modelos de aprendizado de máquina para prever o preço de carros usados com precisão. |
 | [Film Junky Union: Classificação de Resenhas de Filmes](https://github.com/sanchopedro/imdb-reviews) | Implementação de um modelo para detectar automaticamente resenhas negativas de filmes utilizando processamento de linguagem natural. |
+| [Interconect Telecom:Análise e Previsão de Churn de Clientes](https://github.com/sanchopedro/interconect-telecom) | Desenvolvimento de modelo preditivo para identificar rotatividade de clientes na Interconect Telecom e otimizar retenção. |
 
 <br/>  
 
