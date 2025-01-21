@@ -12,6 +12,8 @@ Atualmente, estou buscando oportunidades para aplicar minha expertise em Finanç
 
 ## Educação
 
+- **MBA em Data Science and Business Analytics:** USP Esalq, São Paulo, Brasil (2024-2026)
+
 - **Mestrado em Finanças:** Nova School of Business and Economics, Carcavelos, Portugal (2018-2020)
   
 - **Bacharelado em Economia:** IBMEC-RJ, Rio de Janeiro, Brasil (2014-2017)
